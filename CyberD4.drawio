@@ -80,7 +80,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="S9JY40Ih1nHmHktCQiqw-24" parent="1" style="shape=cube;whiteSpace=wrap;size=10;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#4CAF50;strokeColor=#3D9140;fontColor=#FFFFFF;fontSize=12;fontStyle=1;fontFamily=Arial;shadow=1;" value="Consolidated 9-class Label&#xa;e.g. &quot;threat&quot;" vertex="1">
-          <mxGeometry height="55" width="200" x="620" y="280" as="geometry" />
+          <mxGeometry height="55" width="200" x="330" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="S9JY40Ih1nHmHktCQiqw-25" edge="1" parent="1" source="S9JY40Ih1nHmHktCQiqw-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=95;entryDy=0;entryPerimeter=0;strokeColor=#555555;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=blockThin;endFill=1;" target="S9JY40Ih1nHmHktCQiqw-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S9JY40Ih1nHmHktCQiqw-26" edge="1" parent="1" source="S9JY40Ih1nHmHktCQiqw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=22.5;entryPerimeter=0;strokeColor=#555555;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=blockThin;endFill=1;" target="S9JY40Ih1nHmHktCQiqw-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="30" y="217" />
+              <mxPoint x="30" y="743" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
