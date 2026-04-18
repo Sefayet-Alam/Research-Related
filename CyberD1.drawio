@@ -1,9 +1,15 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="ZeyfkDd3ocMsiKbd7OD6">
-    <mxGraphModel dx="996" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1423" dy="1001" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="I59oy9X-6oSon74qiluq-4" parent="1" style="text;html=1;fontSize=22;fontStyle=1;fontFamily=Arial;fontColor=#2D2D3D;align=center;verticalAlign=middle;" value="BanglaCyberBench: Multi-Task Transformer Ensemble Pipeline" vertex="1">
+          <mxGeometry height="50" width="1000" x="200" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I59oy9X-6oSon74qiluq-5" parent="1" style="shape=mxgraph.basic.cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#1A8A7D;strokeColor=#147A6D;fontColor=#FFFFFF;fontSize=11;fontStyle=1;fontFamily=Arial;shadow=1;" value="Input Bengali&amp;lt;br&amp;gt;Comment&amp;lt;br&amp;gt;&amp;lt;font style=&quot;font-size:9px;color:#888888;&quot;&amp;gt;(raw text — Bangla&amp;lt;br&amp;gt;or Romanized)&amp;lt;/font&amp;gt;" vertex="1">
+          <mxGeometry height="90" width="150" x="30" y="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
