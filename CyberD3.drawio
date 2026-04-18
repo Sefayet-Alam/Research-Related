@@ -7,7 +7,7 @@
         <mxCell id="EUYkXzj0Ea1I3Asc_dhv-1" parent="1" style="text;whiteSpace=wrap;fontSize=22;fontStyle=1;fontFamily=Arial;fontColor=#2D2D3D;align=center;verticalAlign=middle;" value="BanglaCyberBench: Dataset Construction Pipeline" vertex="1">
           <mxGeometry height="45" width="1000" x="250" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="0AZJ56XMqJnezGd947sq-1" parent="1" style="shape=cube;whiteSpace=wrap;size=12;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#1A8A7D;strokeColor=#147A6D;fontColor=#FFFFFF;fontSize=12;fontStyle=1;fontFamily=Arial;shadow=1;gradientColor=default;" value="banth\n73,999 samples | Romanized\nSource: Kaggle" vertex="1">
+        <mxCell id="0AZJ56XMqJnezGd947sq-1" parent="1" style="shape=cube;whiteSpace=wrap;size=12;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#1A8A7D;strokeColor=#147A6D;fontColor=#FFFFFF;fontSize=13;fontStyle=1;fontFamily=Arial;shadow=1;gradientColor=default;" value="banth&#xa;   73,999 samples | Romanized Source: Kaggle" vertex="1">
           <mxGeometry height="80" width="240" x="30" y="100" as="geometry" />
         </mxCell>
       </root>
