@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="jVeyhIC7Xppi7TX8D4CG">
-    <mxGraphModel dx="996" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1423" dy="1001" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="750" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ETp7ukkEzvdssOJE1uD4-3" parent="1" style="rounded=1;whiteSpace=wrap;dashed=1;dashPattern=8 4;fillColor=#F3EFF8;strokeColor=#7B5EA7;strokeWidth=1.5;fontSize=14;fontStyle=1;fontFamily=Arial;fontColor=#7B5EA7;verticalAlign=top;spacingTop=8;" value="BanglaBERT (ELECTRA)" vertex="1">
+          <mxGeometry height="310" width="280" x="30" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ETp7ukkEzvdssOJE1uD4-1" parent="1" style="text;whiteSpace=wrap;fontSize=22;fontStyle=1;fontFamily=Arial;fontColor=#2D2D3D;align=center;verticalAlign=middle;" value="BanglaCyberBench: Weighted-Logit Ensemble (9 Models)" vertex="1">
+          <mxGeometry height="45" width="900" x="300" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ETp7ukkEzvdssOJE1uD4-4" parent="1" style="shape=cube;whiteSpace=wrap;size=10;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#7B5EA7;strokeColor=#6B4E97;fontColor=#FFFFFF;fontSize=13;fontStyle=1;fontFamily=Arial;shadow=1;gradientColor=default;" value="BanglaBERT seed=42&#xa;w = 0.2817" vertex="1">
+          <mxGeometry height="60" width="230" x="55" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ETp7ukkEzvdssOJE1uD4-5" parent="1" style="shape=cube;whiteSpace=wrap;size=10;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#7B5EA7;strokeColor=#6B4E97;fontColor=#FFFFFF;fontSize=13;fontStyle=1;fontFamily=Arial;shadow=1;gradientColor=default;" value="BanglaBERT seed=123&#xa;w = 0.0422" vertex="1">
+          <mxGeometry height="60" width="230" x="55" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="ETp7ukkEzvdssOJE1uD4-6" parent="1" style="shape=cube;whiteSpace=wrap;size=10;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#7B5EA7;strokeColor=#6B4E97;fontColor=#FFFFFF;fontSize=13;fontStyle=1;fontFamily=Arial;shadow=1;gradientColor=default;" value="BanglaBERT seed=42&#xa;w = 0.1163" vertex="1">
+          <mxGeometry height="60" width="230" x="55" y="300" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
