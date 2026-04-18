@@ -83,6 +83,15 @@
         <mxCell id="0AZJ56XMqJnezGd947sq-35" edge="1" parent="1" source="0AZJ56XMqJnezGd947sq-26" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=32.5;entryPerimeter=0;strokeColor=#555555;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=blockThin;endFill=1;" target="0AZJ56XMqJnezGd947sq-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="0AZJ56XMqJnezGd947sq-36" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=25;fillColor=#E8F5E9;strokeColor=#4CAF50;strokeWidth=2;fontColor=#2D2D3D;fontSize=12;fontStyle=1;fontFamily=Arial;shadow=1;" value="Train&#xa;108,460 samples" vertex="1">
+          <mxGeometry height="75" width="160" x="1290" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0AZJ56XMqJnezGd947sq-37" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=25;fillColor=#E8F5E9;strokeColor=#4CAF50;strokeWidth=2;fontColor=#2D2D3D;fontSize=12;fontStyle=1;fontFamily=Arial;shadow=1;" value="Validation&#xa;13,557 samples" vertex="1">
+          <mxGeometry height="75" width="160" x="1290" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="0AZJ56XMqJnezGd947sq-38" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=25;fillColor=#E8F5E9;strokeColor=#4CAF50;strokeWidth=2;fontColor=#2D2D3D;fontSize=12;fontStyle=1;fontFamily=Arial;shadow=1;" value="Test&#xa;13,558 samples" vertex="1">
+          <mxGeometry height="75" width="160" x="1290" y="322" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
