@@ -7,7 +7,7 @@
         <mxCell id="I59oy9X-6oSon74qiluq-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#F5F5F5;strokeColor=#CCCCCC;strokeWidth=1;shadow=1;glass=1;" value="" vertex="1">
           <mxGeometry height="170" width="300" x="30" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="I59oy9X-6oSon74qiluq-4" parent="1" style="text;html=1;fontSize=22;fontStyle=1;fontFamily=Arial;fontColor=#2D2D3D;align=center;verticalAlign=middle;shadow=1;" value="BanglaCyberBench: Multi-Task Transformer Ensemble Pipeline" vertex="1">
+        <mxCell id="I59oy9X-6oSon74qiluq-4" parent="1" style="text;html=1;fontSize=22;fontStyle=1;fontFamily=Arial;fontColor=#2D2D3D;align=center;verticalAlign=middle;shadow=1;glass=0;" value="BanglaCyberBench: Multi-Task Transformer Ensemble Pipeline" vertex="1">
           <mxGeometry height="50" width="1000" x="200" y="20" as="geometry" />
         </mxCell>
         <mxCell id="I59oy9X-6oSon74qiluq-8" edge="1" parent="1" source="I59oy9X-6oSon74qiluq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#555555;strokeWidth=2;endArrow=blockThin;endFill=1;shadow=1;" target="I59oy9X-6oSon74qiluq-7">
