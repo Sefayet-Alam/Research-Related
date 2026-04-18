@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="jVeyhIC7Xppi7TX8D4CG">
-    <mxGraphModel dx="1328" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="750" math="0" shadow="0">
+    <mxGraphModel dx="1660" dy="1168" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="750" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,6 +54,9 @@
         </mxCell>
         <mxCell id="ETp7ukkEzvdssOJE1uD4-14" parent="1" style="shape=cube;whiteSpace=wrap;size=10;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#1A8A7D;strokeColor=#147A6D;fontColor=#FFFFFF;fontSize=13;fontStyle=1;fontFamily=Arial;shadow=1;gradientColor=default;" value="XLM-R seed=456 &#xa;w = 0.1625" vertex="1">
           <mxGeometry height="60" width="230" x="675" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="ETp7ukkEzvdssOJE1uD4-46" edge="1" parent="1" source="ETp7ukkEzvdssOJE1uD4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#b85450;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=blockThin;endFill=1;fillColor=#f8cecc;" target="ETp7ukkEzvdssOJE1uD4-45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ETp7ukkEzvdssOJE1uD4-15" parent="1" style="shape=cube;whiteSpace=wrap;size=15;darkOpacity=0.08;darkOpacity2=0.15;fillColor=#C9A84C;strokeColor=#B0923A;fontColor=#000000;fontSize=15;fontStyle=1;fontFamily=Arial;shadow=1;gradientColor=#FFFFFF;gradientDirection=south;" value="Weighted &#xa;Logit Average &#xa;Nelder-Mead &#xa;optimised on val" vertex="1">
           <mxGeometry height="130" width="200" x="1050" y="170" as="geometry" />
@@ -138,7 +141,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ETp7ukkEzvdssOJE1uD4-45" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=25;fillColor=#E8F5E9;strokeColor=#4CAF50;strokeWidth=2;fontColor=#2D2D3D;fontSize=10;fontStyle=1;fontFamily=Arial;shadow=1;" value="Harmful / Not Harmful &#xa;threshold = 0.50 &#xa;F1=0.9247 | AUROC=0.9731" vertex="1">
-          <mxGeometry height="55" width="180" x="1050" y="450" as="geometry" />
+          <mxGeometry height="55" width="180" x="1300" y="217.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
