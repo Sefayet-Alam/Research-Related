@@ -94,7 +94,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="S9JY40Ih1nHmHktCQiqw-27" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=8;fillColor=#FAFAFA;strokeColor=#C9A84C;strokeWidth=2;fontColor=#2D2D3D;fontSize=14;fontStyle=0;fontFamily=Consolas;align=left;spacingLeft=12;spacingTop=8;shadow=1;" value="WORKED EXAMPLE&#xa;Input: &quot;sexual,religious,threat&quot;&#xa;Step 1: Split &#xa;-&gt; [&quot;sexual&quot;, &quot;religious&quot;, &quot;threat&quot;]&#xa;&#xa;Step 2: Lookup priorities  sexual    -&gt; rank 2 &#xa;religious -&gt; rank 3&#xa;threat    -&gt; rank 1 &#xa;Step 3: Select highest (rank 1)&#xa;-&gt; &quot;threat&quot;&#xa;&#xa;Output: &quot;threat&quot;&#xa;" vertex="1">
-          <mxGeometry height="280" width="280" x="620" y="470" as="geometry" />
+          <mxGeometry height="280" width="280" x="600" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="S9JY40Ih1nHmHktCQiqw-28" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=8;fillColor=#FAFAFA;strokeColor=#C9A84C;strokeWidth=2;fontColor=#2D2D3D;fontSize=14;fontStyle=0;fontFamily=Consolas;align=left;spacingLeft=12;spacingTop=8;shadow=1;" value="EXAMPLE 2 (v3 bug fix)&#xa;Input: &quot;sexual,religious&quot;&#xa;(BUG): religious (wrong: picked alphabetically)&#xa;(FIXED): sexual&#xa; (correct: sexual &gt; religious&#xa;  in priority)" vertex="1">
+          <mxGeometry height="280" width="280" x="600" y="420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
