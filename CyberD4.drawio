@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="L0EeYEzp3vFvMURmh000">
-    <mxGraphModel dx="949" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1048" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -155,6 +155,9 @@
         </mxCell>
         <mxCell id="S9JY40Ih1nHmHktCQiqw-41" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=20;fillColor=#BBBBBB;strokeColor=#999999;fontColor=#FFFFFF;fontSize=10;fontStyle=1;fontFamily=Arial;" value="9. none" vertex="1">
           <mxGeometry height="30" width="130" x="920" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="S9JY40Ih1nHmHktCQiqw-53" parent="1" style="text;whiteSpace=wrap;fontSize=14;fontFamily=Arial;fontColor=#666666;fontStyle=2;align=center;" value="Figure D4. Label consolidation flowchart. Compound labels (e.g. &quot;sexual,religious,threat&quot;) are split and resolved via priority lookup. The v3 fix corrected a bug where &quot;sexual,religious&quot; was incorrectly mapped to &quot;religious&quot; instead of &quot;sexual&quot;." vertex="1">
+          <mxGeometry height="40" width="800" x="150" y="820" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
