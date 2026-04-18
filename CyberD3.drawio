@@ -31,6 +31,9 @@
         <mxCell id="0AZJ56XMqJnezGd947sq-12" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=50;fillColor=#E8F5F3;strokeColor=#1A8A7D;strokeWidth=1;fontColor=#1A8A7D;fontSize=13;fontStyle=1;fontFamily=Arial;" value="Bangla" vertex="1">
           <mxGeometry height="22" width="80" x="190" y="340" as="geometry" />
         </mxCell>
+        <mxCell id="0AZJ56XMqJnezGd947sq-14" parent="1" style="shape=trapezoid;whiteSpace=wrap;perimeter=trapezoidPerimeter;size=0.15;anchorPointDirection=0;fixedSize=1;fillColor=#5B8DC9;strokeColor=#4A7AB5;fontColor=#FFFFFF;fontSize=12;fontStyle=1;fontFamily=Arial;shadow=1;" value="" vertex="1">
+          <mxGeometry height="80" width="40" x="490" y="350" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
