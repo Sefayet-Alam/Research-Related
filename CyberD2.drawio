@@ -143,10 +143,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ETp7ukkEzvdssOJE1uD4-45" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=25;fillColor=#E8F5E9;strokeColor=#4CAF50;strokeWidth=2;fontColor=#2D2D3D;fontSize=11;fontStyle=1;fontFamily=Arial;shadow=1;" value="Harmful / Not Harmful &#xa;threshold = 0.50 &#xa;F1=0.9247 | AUROC=0.9731" vertex="1">
+        <mxCell id="ETp7ukkEzvdssOJE1uD4-45" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=25;fillColor=#E8F5E9;strokeColor=#4CAF50;strokeWidth=2;fontColor=#2D2D3D;fontSize=11;fontStyle=1;fontFamily=Arial;shadow=1;glass=1;" value="Harmful / Not Harmful &#xa;threshold = 0.50 &#xa;F1=0.9247 | AUROC=0.9731" vertex="1">
           <mxGeometry height="55" width="180" x="1300" y="135" as="geometry" />
         </mxCell>
-        <mxCell id="ETp7ukkEzvdssOJE1uD4-47" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=25;fillColor=#E8F5E9;strokeColor=#4CAF50;strokeWidth=2;fontColor=#2D2D3D;fontSize=11;fontStyle=1;fontFamily=Arial;shadow=1;" value="Harmful / Not Harmful &#xa;threshold = 0.50 &#xa;F1=0.9247 | AUROC=0.9731" vertex="1">
+        <mxCell id="ETp7ukkEzvdssOJE1uD4-47" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=25;fillColor=#E8F5E9;strokeColor=#4CAF50;strokeWidth=2;fontColor=#2D2D3D;fontSize=11;fontStyle=1;fontFamily=Arial;shadow=1;glass=1;" value="Harmful / Not Harmful &#xa;threshold = 0.50 &#xa;F1=0.9247 | AUROC=0.9731" vertex="1">
           <mxGeometry height="55" width="180" x="1300" y="275" as="geometry" />
         </mxCell>
         <mxCell id="ETp7ukkEzvdssOJE1uD4-49" parent="1" style="text;whiteSpace=wrap;fontSize=12;fontFamily=Arial;fontColor=#888888;fontStyle=2;align=center;horizontal=1;shadow=1;" value="Val Macro-F1 = 0.9264" vertex="1">
