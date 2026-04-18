@@ -72,7 +72,7 @@
         </mxCell>
         <mxCell id="S9JY40Ih1nHmHktCQiqw-22" connectable="0" parent="S9JY40Ih1nHmHktCQiqw-21" style="text;whiteSpace=wrap;fontSize=13;fontFamily=Arial;fontColor=#D44D4D;fontStyle=1;align=center;" value="NO" vertex="1">
           <mxGeometry relative="1" x="-0.1247" as="geometry">
-            <mxPoint y="-20" as="offset" />
+            <mxPoint x="15" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S9JY40Ih1nHmHktCQiqw-23" edge="1" parent="1" source="S9JY40Ih1nHmHktCQiqw-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#555555;strokeWidth=2;endArrow=blockThin;endFill=1;" target="S9JY40Ih1nHmHktCQiqw-16">
