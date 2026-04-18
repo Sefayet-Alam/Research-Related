@@ -77,6 +77,12 @@
         <mxCell id="0AZJ56XMqJnezGd947sq-32" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=10;fillColor=#FFFDE7;strokeColor=#C9A84C;strokeWidth=1;fontColor=#555555;fontSize=14;fontStyle=2;fontFamily=Arial;align=left;spacingLeft=8;shadow=0;" value="Example: &quot;sexual,religious&quot;&#xa;split -&gt; [sexual, religious]&#xa;priority: sexual &gt; religious&#xa;Result: &quot;sexual&quot;" vertex="1">
           <mxGeometry height="179" width="210" x="1040" y="400" as="geometry" />
         </mxCell>
+        <mxCell id="0AZJ56XMqJnezGd947sq-33" parent="1" style="shape=cube;whiteSpace=wrap;size=10;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#7B5EA7;strokeColor=#6B4E97;fontColor=#FFFFFF;fontSize=12;fontStyle=1;fontFamily=Arial;shadow=1;gradientColor=default;" value="Stratified Split&#xa;80 / 10 / 10" vertex="1">
+          <mxGeometry height="75" width="160" x="1070" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="0AZJ56XMqJnezGd947sq-35" edge="1" parent="1" source="0AZJ56XMqJnezGd947sq-26" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=32.5;entryPerimeter=0;strokeColor=#555555;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=blockThin;endFill=1;" target="0AZJ56XMqJnezGd947sq-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
