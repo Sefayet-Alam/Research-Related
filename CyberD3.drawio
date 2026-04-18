@@ -111,6 +111,9 @@
         <mxCell id="0AZJ56XMqJnezGd947sq-38" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=25;fillColor=#E8F5E9;strokeColor=#4CAF50;strokeWidth=2;fontColor=#2D2D3D;fontSize=12;fontStyle=1;fontFamily=Arial;shadow=1;" value="Test&#xa;13,558 samples" vertex="1">
           <mxGeometry height="75" width="160" x="1290" y="322" as="geometry" />
         </mxCell>
+        <mxCell id="0AZJ56XMqJnezGd947sq-42" parent="1" style="text;whiteSpace=wrap;fontSize=10;fontFamily=Arial;fontColor=#D44D4D;fontStyle=2;align=center;" value="40,590 duplicates kept (cross-source)" vertex="1">
+          <mxGeometry height="30" width="200" x="390" y="330" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
