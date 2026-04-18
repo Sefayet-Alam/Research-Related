@@ -38,6 +38,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="S9JY40Ih1nHmHktCQiqw-12" parent="1" style="shape=cube;whiteSpace=wrap;size=10;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#5B8DC9;strokeColor=#4A7AB5;fontColor=#FFFFFF;fontSize=11;fontStyle=1;fontFamily=Arial;shadow=1;" value="For each part:&#xa;lookup in priority table&#xa;record priority rank" vertex="1">
+          <mxGeometry height="55" width="160" x="350" y="423" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
