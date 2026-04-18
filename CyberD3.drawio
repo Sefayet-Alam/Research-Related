@@ -141,6 +141,9 @@
         <mxCell id="0AZJ56XMqJnezGd947sq-54" parent="1" style="text;whiteSpace=wrap;fontSize=12;fontFamily=Arial;fontColor=#4CAF50;align=left;" value="Green — Output splits" vertex="1">
           <mxGeometry height="20" width="280" x="30" y="700" as="geometry" />
         </mxCell>
+        <mxCell id="0AZJ56XMqJnezGd947sq-56" parent="1" style="text;whiteSpace=wrap;fontSize=13;fontFamily=Arial;fontColor=#666666;fontStyle=2;align=center;" value="Figure D3. Dataset construction pipeline. Four public sources are merged into a 135K-sample benchmark. Raw 89-class labels are consolidated into 9 semantically coherent classes via priority-based compound label resolution. Data is stratified-split 80/10/10." vertex="1">
+          <mxGeometry height="60" width="900" x="530" y="630" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
