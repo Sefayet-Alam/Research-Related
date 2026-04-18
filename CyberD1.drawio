@@ -64,7 +64,7 @@
         <mxCell id="I59oy9X-6oSon74qiluq-25" parent="1" style="text;html=1;fontSize=8;fontFamily=Arial;fontColor=#E8913A;fontStyle=2;align=center;shadow=1;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;FocalLoss(γ=1.5) + class weights&lt;/font&gt;" vertex="1">
           <mxGeometry height="55" width="165" x="1065" y="105" as="geometry" />
         </mxCell>
-        <mxCell id="I59oy9X-6oSon74qiluq-26" parent="1" style="text;html=1;fontSize=8;fontFamily=Arial;fontColor=#E8913A;fontStyle=2;align=center;shadow=1;strokeColor=#000000;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;FocalLoss(γ=2.5) + class weights&lt;/font&gt;" vertex="1">
+        <mxCell id="I59oy9X-6oSon74qiluq-26" parent="1" style="text;html=1;fontSize=8;fontFamily=Arial;fontColor=#E8913A;fontStyle=2;align=center;shadow=1;strokeColor=#FFFFFF;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;FocalLoss(γ=2.5) + class weights&lt;/font&gt;" vertex="1">
           <mxGeometry height="55" width="165" x="1065" y="370" as="geometry" />
         </mxCell>
         <mxCell id="I59oy9X-6oSon74qiluq-27" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=0;size=0.5;strokeColor=#000000;strokeWidth=1.5;fillColor=none;" value="" vertex="1">
