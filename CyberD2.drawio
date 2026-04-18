@@ -61,7 +61,7 @@
         <mxCell id="ETp7ukkEzvdssOJE1uD4-48" edge="1" parent="1" source="ETp7ukkEzvdssOJE1uD4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#b85450;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=blockThin;endFill=1;fillColor=#f8cecc;shadow=1;" target="ETp7ukkEzvdssOJE1uD4-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ETp7ukkEzvdssOJE1uD4-15" parent="1" style="shape=cube;whiteSpace=wrap;size=15;darkOpacity=0.08;darkOpacity2=0.15;fillColor=#C9A84C;strokeColor=#B0923A;fontColor=#000000;fontSize=15;fontStyle=1;fontFamily=Arial;shadow=1;gradientColor=#FFFFFF;gradientDirection=south;" value="Weighted &#xa;Logit Average &#xa;Nelder-Mead &#xa;optimised on val" vertex="1">
+        <mxCell id="ETp7ukkEzvdssOJE1uD4-15" parent="1" style="shape=cube;whiteSpace=wrap;size=15;darkOpacity=0.08;darkOpacity2=0.15;fillColor=#C9A84C;strokeColor=#B0923A;fontColor=#000000;fontSize=15;fontStyle=1;fontFamily=Arial;shadow=1;gradientColor=#FFFFFF;gradientDirection=east;" value="Weighted &#xa;Logit Average &#xa;Nelder-Mead &#xa;optimised on val" vertex="1">
           <mxGeometry height="130" width="200" x="1050" y="170" as="geometry" />
         </mxCell>
         <mxCell id="ETp7ukkEzvdssOJE1uD4-34" edge="1" parent="1" source="ETp7ukkEzvdssOJE1uD4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;strokeColor=#5B8DC9;strokeWidth=3;endArrow=blockThin;endFill=1;shadow=1;" target="ETp7ukkEzvdssOJE1uD4-15">
