@@ -74,6 +74,9 @@
         <mxCell id="0AZJ56XMqJnezGd947sq-29" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=10;fillColor=#FFF8F0;strokeColor=#E8913A;strokeWidth=1.5;dashed=1;dashPattern=6 3;fontColor=#2D2D3D;fontSize=13;fontStyle=0;fontFamily=Consolas;align=left;spacingLeft=10;shadow=0;" value="Priority Resolution&#xa;1. threat  (highest)&#xa;2. sexual&#xa;3. religious&#xa;4. gender&#xa;5. political&#xa;6. abusive&#xa;7. personal&#xa;8. other&#xa;9. none  (lowest)" vertex="1">
           <mxGeometry height="179" width="210" x="810" y="370" as="geometry" />
         </mxCell>
+        <mxCell id="0AZJ56XMqJnezGd947sq-32" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=10;fillColor=#FFFDE7;strokeColor=#C9A84C;strokeWidth=1;fontColor=#555555;fontSize=14;fontStyle=2;fontFamily=Arial;align=left;spacingLeft=8;shadow=0;" value="Example: &quot;sexual,religious&quot;&#xa;split -&gt; [sexual, religious]&#xa;priority: sexual &gt; religious&#xa;Result: &quot;sexual&quot;" vertex="1">
+          <mxGeometry height="179" width="210" x="1040" y="400" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
