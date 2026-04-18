@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="cCecWqhBcvfEirUFWTF8">
+    <mxGraphModel dx="1423" dy="1001" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="700" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="G3kt5AdelH6kHk_Kczr0-1" parent="1" style="text;whiteSpace=wrap;fontSize=22;fontStyle=1;fontFamily=Arial;fontColor=#2D2D3D;align=center;verticalAlign=middle;" value="BanglaCyberBench: Robustness Evaluation Design" vertex="1">
+          <mxGeometry height="45" width="900" x="250" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G3kt5AdelH6kHk_Kczr0-2" parent="1" style="text;whiteSpace=wrap;fontSize=16;fontStyle=5;fontFamily=Arial;fontColor=#7B5EA7;align=center;" value="Source Holdout (4 configurations)" vertex="1">
+          <mxGeometry height="30" width="550" x="50" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="G3kt5AdelH6kHk_Kczr0-3" edge="1" parent="1" source="G3kt5AdelH6kHk_Kczr0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="G3kt5AdelH6kHk_Kczr0-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G3kt5AdelH6kHk_Kczr0-4" parent="1" style="text;whiteSpace=wrap;fontSize=16;fontStyle=5;fontFamily=Arial;fontColor=#7B5EA7;align=center;" value="Script Holdout" vertex="1">
+          <mxGeometry height="30" width="550" x="750" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="G3kt5AdelH6kHk_Kczr0-9" parent="1" style="line;strokeColor=#CCCCCC;strokeWidth=1;dashed=1;dashPattern=8 4;" value="" vertex="1">
+          <mxGeometry height="550" width="1" x="690" y="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
