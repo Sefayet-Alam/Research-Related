@@ -106,6 +106,12 @@
         <mxCell id="qk2PPn2rACsm-h5DRjPC-38" parent="1" style="shape=cube;whiteSpace=wrap;size=10;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#4CAF50;strokeColor=#3D9140;fontColor=#FFFFFF;fontSize=11;fontStyle=1;fontFamily=Arial;shadow=1;" value="Train on:&#xa;Bangla script&#xa;61,576 samples" vertex="1">
           <mxGeometry height="80" width="200" x="770" y="130" as="geometry" />
         </mxCell>
+        <mxCell id="qk2PPn2rACsm-h5DRjPC-39" parent="1" style="shape=cube;whiteSpace=wrap;size=10;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#D44D4D;strokeColor=#B93D3D;fontColor=#FFFFFF;fontSize=11;fontStyle=1;fontFamily=Arial;shadow=1;" value="Evaluate on:&#xa;Romanized script&#xa;73,999 samples" vertex="1">
+          <mxGeometry height="80" width="200" x="770" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="qk2PPn2rACsm-h5DRjPC-40" edge="1" parent="1" source="qk2PPn2rACsm-h5DRjPC-38" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#555555;strokeWidth=2;endArrow=blockThin;endFill=1;" target="qk2PPn2rACsm-h5DRjPC-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
