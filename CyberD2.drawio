@@ -43,6 +43,9 @@
         <mxCell id="ETp7ukkEzvdssOJE1uD4-14" parent="1" style="shape=cube;whiteSpace=wrap;size=10;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#1A8A7D;strokeColor=#147A6D;fontColor=#FFFFFF;fontSize=13;fontStyle=1;fontFamily=Arial;shadow=1;gradientColor=default;" value="XLM-R seed=456 &#xa;w = 0.1625" vertex="1">
           <mxGeometry height="60" width="230" x="675" y="300" as="geometry" />
         </mxCell>
+        <mxCell id="ETp7ukkEzvdssOJE1uD4-15" parent="1" style="shape=cube;whiteSpace=wrap;size=15;darkOpacity=0.08;darkOpacity2=0.15;fillColor=#C9A84C;strokeColor=#B0923A;fontColor=#000000;fontSize=15;fontStyle=1;fontFamily=Arial;shadow=1;gradientColor=#FFFFFF;gradientDirection=south;" value="Weighted &#xa;Logit Average &#xa;Nelder-Mead &#xa;optimised on val" vertex="1">
+          <mxGeometry height="130" width="200" x="980" y="170" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
