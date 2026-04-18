@@ -19,6 +19,18 @@
         <mxCell id="0AZJ56XMqJnezGd947sq-4" parent="1" style="shape=cube;whiteSpace=wrap;size=12;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#1A8A7D;strokeColor=#147A6D;fontColor=#FFFFFF;fontSize=13;fontStyle=1;fontFamily=Arial;shadow=1;gradientColor=default;" value="multilabel_12557 &#xa;12,546 samples | Bangla&#xa;Source: Kaggle" vertex="1">
           <mxGeometry height="80" width="240" x="30" y="450" as="geometry" />
         </mxCell>
+        <mxCell id="0AZJ56XMqJnezGd947sq-6" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=50;fillColor=#E8F5F3;strokeColor=#1A8A7D;strokeWidth=1;fontColor=#1A8A7D;fontSize=13;fontStyle=1;fontFamily=Arial;" value="Romanized" vertex="1">
+          <mxGeometry height="22" width="80" x="190" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0AZJ56XMqJnezGd947sq-8" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=50;fillColor=#E8F5F3;strokeColor=#1A8A7D;strokeWidth=1;fontColor=#1A8A7D;fontSize=13;fontStyle=1;fontFamily=Arial;" value="Bangla" vertex="1">
+          <mxGeometry height="22" width="80" x="190" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="0AZJ56XMqJnezGd947sq-11" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=50;fillColor=#E8F5F3;strokeColor=#1A8A7D;strokeWidth=1;fontColor=#1A8A7D;fontSize=13;fontStyle=1;fontFamily=Arial;" value="Bangla" vertex="1">
+          <mxGeometry height="22" width="80" x="190" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="0AZJ56XMqJnezGd947sq-12" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=50;fillColor=#E8F5F3;strokeColor=#1A8A7D;strokeWidth=1;fontColor=#1A8A7D;fontSize=13;fontStyle=1;fontFamily=Arial;" value="Bangla" vertex="1">
+          <mxGeometry height="22" width="80" x="190" y="340" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
