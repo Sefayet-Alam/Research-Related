@@ -97,6 +97,9 @@
         <mxCell id="I59oy9X-6oSon74qiluq-39" parent="1" style="text;html=1;fontSize=9;fontFamily=Arial;fontColor=#E8913A;align=left;" value="■ Orange (#E8913A) — Loss functions" vertex="1">
           <mxGeometry height="18" width="270" x="40" y="660" as="geometry" />
         </mxCell>
+        <mxCell id="I59oy9X-6oSon74qiluq-43" parent="1" style="text;html=1;fontSize=9;fontFamily=Arial;fontColor=#666666;fontStyle=2;align=center;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Figure D1. Proposed multi-task architecture. A shared transformer encoder feeds two task heads&lt;br&gt;(binary detection + 9-class abuse-type) via blended CLS+Mean pooling. All three encoders (BanglaBERT, MuRIL, XLM-R) share this architecture.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="800" x="500" y="700" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
