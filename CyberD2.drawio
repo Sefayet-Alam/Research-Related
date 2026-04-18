@@ -34,6 +34,15 @@
         <mxCell id="ETp7ukkEzvdssOJE1uD4-11" parent="1" style="rounded=1;whiteSpace=wrap;dashed=1;dashPattern=8 4;fillColor=#E8F5F3;strokeColor=#1A8A7D;strokeWidth=1.5;fontSize=14;fontStyle=1;fontFamily=Arial;fontColor=#1A8A7D;verticalAlign=top;spacingTop=8;" value="XLM-R (RoBERTa)" vertex="1">
           <mxGeometry height="310" width="280" x="650" y="80" as="geometry" />
         </mxCell>
+        <mxCell id="ETp7ukkEzvdssOJE1uD4-12" parent="1" style="shape=cube;whiteSpace=wrap;size=10;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#1A8A7D;strokeColor=#147A6D;fontColor=#FFFFFF;fontSize=13;fontStyle=1;fontFamily=Arial;shadow=1;gradientColor=default;" value="XLM-R seed=42 &#xa;w = 0.0336" vertex="1">
+          <mxGeometry height="60" width="230" x="675" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ETp7ukkEzvdssOJE1uD4-13" parent="1" style="shape=cube;whiteSpace=wrap;size=10;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#1A8A7D;strokeColor=#147A6D;fontColor=#FFFFFF;fontSize=13;fontStyle=1;fontFamily=Arial;shadow=1;gradientColor=default;" value="XLM-R seed=123 &#xa;w = 0.0107" vertex="1">
+          <mxGeometry height="60" width="230" x="675" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="ETp7ukkEzvdssOJE1uD4-14" parent="1" style="shape=cube;whiteSpace=wrap;size=10;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#1A8A7D;strokeColor=#147A6D;fontColor=#FFFFFF;fontSize=13;fontStyle=1;fontFamily=Arial;shadow=1;gradientColor=default;" value="XLM-R seed=456 &#xa;w = 0.1625" vertex="1">
+          <mxGeometry height="60" width="230" x="675" y="300" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
