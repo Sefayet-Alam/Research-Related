@@ -19,7 +19,7 @@
         <mxCell id="ETp7ukkEzvdssOJE1uD4-6" parent="1" style="shape=cube;whiteSpace=wrap;size=10;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#7B5EA7;strokeColor=#6B4E97;fontColor=#FFFFFF;fontSize=13;fontStyle=1;fontFamily=Arial;shadow=1;gradientColor=default;" value="BanglaBERT seed=42&#xa;w = 0.1163" vertex="1">
           <mxGeometry height="60" width="230" x="55" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="ETp7ukkEzvdssOJE1uD4-7" parent="1" style="rounded=1;whiteSpace=wrap;dashed=1;dashPattern=8 4;fillColor=#EDF3FA;strokeColor=#5B8DC9;strokeWidth=1.5;fontSize=13;fontStyle=1;fontFamily=Arial;fontColor=#5B8DC9;verticalAlign=top;spacingTop=8;" value="BanglaBERT (ELECTRA)" vertex="1">
+        <mxCell id="ETp7ukkEzvdssOJE1uD4-7" parent="1" style="rounded=1;whiteSpace=wrap;dashed=1;dashPattern=8 4;fillColor=#EDF3FA;strokeColor=#5B8DC9;strokeWidth=1.5;fontSize=13;fontStyle=1;fontFamily=Arial;fontColor=#5B8DC9;verticalAlign=top;spacingTop=8;" value="MuRIL (BERT)" vertex="1">
           <mxGeometry height="310" width="280" x="330" y="80" as="geometry" />
         </mxCell>
       </root>
