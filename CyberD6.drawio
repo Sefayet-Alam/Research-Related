@@ -4,109 +4,109 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-1" parent="1" style="text;whiteSpace=wrap;fontSize=22;fontStyle=1;fontFamily=Arial;fontColor=#2D2D3D;align=center;verticalAlign=middle;" value="BanglaCyberBench: Research Gap &amp; Our Contributions" vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-1" parent="1" style="text;whiteSpace=wrap;fontSize=22;fontStyle=1;fontFamily=Arial;fontColor=#2D2D3D;align=center;verticalAlign=middle;shadow=1;" value="BanglaCyberBench: Research Gap &amp; Our Contributions" vertex="1">
           <mxGeometry height="45" width="1000" x="200" y="15" as="geometry" />
         </mxCell>
         <mxCell id="t-FqGZyoNH09Uf5jNLHU-2" parent="1" style="line;strokeColor=#CCCCCC;strokeWidth=2;dashed=1;dashPattern=8 4;" value="" vertex="1">
           <mxGeometry height="600" x="700" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-3" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=8;fillColor=#FFF5F5;strokeColor=#D44D4D;strokeWidth=1.5;dashed=0;" value="" vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-3" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=8;fillColor=#FFF5F5;strokeColor=#D44D4D;strokeWidth=1.5;dashed=0;glass=1;shadow=1;" value="" vertex="1">
           <mxGeometry height="590" width="630" x="40" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-4" parent="1" style="text;whiteSpace=wrap;fontSize=18;fontStyle=1;fontFamily=Arial;fontColor=#D44D4D;align=center;verticalAlign=middle;" value="Prior Work — Limitations" vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-4" parent="1" style="text;whiteSpace=wrap;fontSize=18;fontStyle=1;fontFamily=Arial;fontColor=#D44D4D;align=center;verticalAlign=middle;shadow=1;" value="Prior Work — Limitations" vertex="1">
           <mxGeometry height="35" width="430" x="140" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-5" parent="1" style="text;whiteSpace=wrap;fontSize=9;fontStyle=2;fontFamily=Arial;fontColor=#999999;align=center;" value="Ahmed (2021), Sihab-Us-Sakib (2024), Saifullah (2024), Hoque &amp; Seddiqui (2025)" vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-5" parent="1" style="text;whiteSpace=wrap;fontSize=12;fontStyle=2;fontFamily=Arial;fontColor=#999999;align=center;" value="Ahmed (2021), Sihab-Us-Sakib (2024), Saifullah (2024), Hoque &amp; Seddiqui (2025)" vertex="1">
           <mxGeometry height="20" width="510" x="100" y="112" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-6" parent="1" style="text;whiteSpace=wrap;fontSize=20;fontFamily=Arial;fontColor=#D44D4D;fontStyle=1;align=center;verticalAlign=middle;" value="✗" vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-6" parent="1" style="text;whiteSpace=wrap;fontSize=24;fontFamily=Arial;fontColor=#D44D4D;fontStyle=1;align=center;verticalAlign=middle;" value="✗" vertex="1">
           <mxGeometry height="40" width="40" x="60" y="150" as="geometry" />
         </mxCell>
         <mxCell id="t-FqGZyoNH09Uf5jNLHU-7" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=12;fillColor=#FDECEA;strokeColor=#D44D4D;strokeWidth=1.5;" value="" vertex="1">
           <mxGeometry height="50" width="530" x="110" y="145" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-8" parent="1" style="text;whiteSpace=wrap;fontSize=13;fontStyle=1;fontFamily=Arial;fontColor=#D44D4D;align=left;" value="Single Source Dataset" vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-8" parent="1" style="text;whiteSpace=wrap;fontSize=14;fontStyle=1;fontFamily=Arial;fontColor=#D44D4D;align=left;" value="Single Source Dataset" vertex="1">
           <mxGeometry height="20" width="300" x="125" y="148" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-9" parent="1" style="text;whiteSpace=wrap;fontSize=9;fontFamily=Arial;fontColor=#777777;align=left;" value="All prior work uses only 44,001 Facebook comments from one source (Ahmed et al. 2021)" vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-9" parent="1" style="text;whiteSpace=wrap;fontSize=11;fontFamily=Arial;fontColor=#777777;align=left;" value="All prior work uses only 44,001 Facebook comments from one source (Ahmed et al. 2021)" vertex="1">
           <mxGeometry height="18" width="500" x="125" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-10" parent="1" style="text;whiteSpace=wrap;fontSize=20;fontFamily=Arial;fontColor=#D44D4D;fontStyle=1;align=center;verticalAlign=middle;" value="✗" vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-10" parent="1" style="text;whiteSpace=wrap;fontSize=24;fontFamily=Arial;fontColor=#D44D4D;fontStyle=1;align=center;verticalAlign=middle;" value="✗" vertex="1">
           <mxGeometry height="40" width="40" x="60" y="215" as="geometry" />
         </mxCell>
         <mxCell id="t-FqGZyoNH09Uf5jNLHU-11" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=12;fillColor=#FDECEA;strokeColor=#D44D4D;strokeWidth=1.5;" value="" vertex="1">
           <mxGeometry height="50" width="530" x="110" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-12" parent="1" style="text;whiteSpace=wrap;fontSize=13;fontStyle=1;fontFamily=Arial;fontColor=#D44D4D;align=left;" value="Small Dataset (2.7K – 44K samples)" vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-12" parent="1" style="text;whiteSpace=wrap;fontSize=14;fontStyle=1;fontFamily=Arial;fontColor=#D44D4D;align=left;" value="Small Dataset (2.7K – 44K samples)" vertex="1">
           <mxGeometry height="20" width="400" x="125" y="213" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-13" parent="1" style="text;whiteSpace=wrap;fontSize=9;fontFamily=Arial;fontColor=#777777;align=left;" value="Largest prior benchmark has 44K samples. Smallest (Sihab-Us-Sakib 2024) has only 2,751." vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-13" parent="1" style="text;whiteSpace=wrap;fontSize=11;fontFamily=Arial;fontColor=#777777;align=left;" value="Largest prior benchmark has 44K samples. Smallest (Sihab-Us-Sakib 2024) has only 2,751." vertex="1">
           <mxGeometry height="18" width="500" x="125" y="235" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-14" parent="1" style="text;whiteSpace=wrap;fontSize=20;fontFamily=Arial;fontColor=#D44D4D;fontStyle=1;align=center;verticalAlign=middle;" value="✗" vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-14" parent="1" style="text;whiteSpace=wrap;fontSize=24;fontFamily=Arial;fontColor=#D44D4D;fontStyle=1;align=center;verticalAlign=middle;" value="✗" vertex="1">
           <mxGeometry height="40" width="40" x="60" y="280" as="geometry" />
         </mxCell>
         <mxCell id="t-FqGZyoNH09Uf5jNLHU-15" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=12;fillColor=#FDECEA;strokeColor=#D44D4D;strokeWidth=1.5;" value="" vertex="1">
           <mxGeometry height="50" width="530" x="110" y="275" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-16" parent="1" style="text;whiteSpace=wrap;fontSize=13;fontStyle=1;fontFamily=Arial;fontColor=#D44D4D;align=left;" value="5 Coarse Classes Only" vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-16" parent="1" style="text;whiteSpace=wrap;fontSize=14;fontStyle=1;fontFamily=Arial;fontColor=#D44D4D;align=left;" value="5 Coarse Classes Only" vertex="1">
           <mxGeometry height="20" width="300" x="125" y="278" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-17" parent="1" style="text;whiteSpace=wrap;fontSize=9;fontFamily=Arial;fontColor=#777777;align=left;" value="Non-bully, Sexual, Threat, Troll, Religious — no fine-grained taxonomy, no compound label handling" vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-17" parent="1" style="text;whiteSpace=wrap;fontSize=11;fontFamily=Arial;fontColor=#777777;align=left;" value="Non-bully, Sexual, Threat, Troll, Religious — no fine-grained taxonomy, no compound label handling" vertex="1">
           <mxGeometry height="18" width="500" x="125" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-18" parent="1" style="text;whiteSpace=wrap;fontSize=20;fontFamily=Arial;fontColor=#D44D4D;fontStyle=1;align=center;verticalAlign=middle;" value="✗" vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-18" parent="1" style="text;whiteSpace=wrap;fontSize=24;fontFamily=Arial;fontColor=#D44D4D;fontStyle=1;align=center;verticalAlign=middle;" value="✗" vertex="1">
           <mxGeometry height="40" width="40" x="60" y="345" as="geometry" />
         </mxCell>
         <mxCell id="t-FqGZyoNH09Uf5jNLHU-19" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=12;fillColor=#FDECEA;strokeColor=#D44D4D;strokeWidth=1.5;" value="" vertex="1">
           <mxGeometry height="50" width="530" x="110" y="340" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-20" parent="1" style="text;whiteSpace=wrap;fontSize=13;fontStyle=1;fontFamily=Arial;fontColor=#D44D4D;align=left;" value="Bangla Script Only" vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-20" parent="1" style="text;whiteSpace=wrap;fontSize=14;fontStyle=1;fontFamily=Arial;fontColor=#D44D4D;align=left;" value="Bangla Script Only" vertex="1">
           <mxGeometry height="20" width="300" x="125" y="343" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-21" parent="1" style="text;whiteSpace=wrap;fontSize=9;fontFamily=Arial;fontColor=#777777;align=left;" value="Ignores romanized Bangla (English script) which dominates real-world social media usage" vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-21" parent="1" style="text;whiteSpace=wrap;fontSize=11;fontFamily=Arial;fontColor=#777777;align=left;" value="Ignores romanized Bangla (English script) which dominates real-world social media usage" vertex="1">
           <mxGeometry height="18" width="500" x="125" y="365" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-22" parent="1" style="text;whiteSpace=wrap;fontSize=20;fontFamily=Arial;fontColor=#D44D4D;fontStyle=1;align=center;verticalAlign=middle;" value="✗" vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-22" parent="1" style="text;whiteSpace=wrap;fontSize=24;fontFamily=Arial;fontColor=#D44D4D;fontStyle=1;align=center;verticalAlign=middle;" value="✗" vertex="1">
           <mxGeometry height="40" width="40" x="60" y="410" as="geometry" />
         </mxCell>
         <mxCell id="t-FqGZyoNH09Uf5jNLHU-23" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=12;fillColor=#FDECEA;strokeColor=#D44D4D;strokeWidth=1.5;" value="" vertex="1">
           <mxGeometry height="50" width="530" x="110" y="405" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-24" parent="1" style="text;whiteSpace=wrap;fontSize=13;fontStyle=1;fontFamily=Arial;fontColor=#D44D4D;align=left;" value="No Robustness / Cross-Source Evaluation" vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-24" parent="1" style="text;whiteSpace=wrap;fontSize=14;fontStyle=1;fontFamily=Arial;fontColor=#D44D4D;align=left;" value="No Robustness / Cross-Source Evaluation" vertex="1">
           <mxGeometry height="20" width="400" x="125" y="408" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-25" parent="1" style="text;whiteSpace=wrap;fontSize=9;fontFamily=Arial;fontColor=#777777;align=left;" value="Models tested only on random split of same source. No source-holdout or script-holdout evaluation." vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-25" parent="1" style="text;whiteSpace=wrap;fontSize=11;fontFamily=Arial;fontColor=#777777;align=left;" value="Models tested only on random split of same source. No source-holdout or script-holdout evaluation." vertex="1">
           <mxGeometry height="18" width="500" x="125" y="430" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-26" parent="1" style="text;whiteSpace=wrap;fontSize=20;fontFamily=Arial;fontColor=#D44D4D;fontStyle=1;align=center;verticalAlign=middle;" value="✗" vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-26" parent="1" style="text;whiteSpace=wrap;fontSize=24;fontFamily=Arial;fontColor=#D44D4D;fontStyle=1;align=center;verticalAlign=middle;" value="✗" vertex="1">
           <mxGeometry height="40" width="40" x="60" y="475" as="geometry" />
         </mxCell>
         <mxCell id="t-FqGZyoNH09Uf5jNLHU-27" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=12;fillColor=#FDECEA;strokeColor=#D44D4D;strokeWidth=1.5;" value="" vertex="1">
           <mxGeometry height="50" width="530" x="110" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-28" parent="1" style="text;whiteSpace=wrap;fontSize=13;fontStyle=1;fontFamily=Arial;fontColor=#D44D4D;align=left;" value="Single Model, No Multi-Task, No Ablation" vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-28" parent="1" style="text;whiteSpace=wrap;fontSize=14;fontStyle=1;fontFamily=Arial;fontColor=#D44D4D;align=left;" value="Single Model, No Multi-Task, No Ablation" vertex="1">
           <mxGeometry height="20" width="400" x="125" y="473" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-29" parent="1" style="text;whiteSpace=wrap;fontSize=9;fontFamily=Arial;fontColor=#777777;align=left;" value="Single encoder, single task head, no systematic component ablation study" vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-29" parent="1" style="text;whiteSpace=wrap;fontSize=11;fontFamily=Arial;fontColor=#777777;align=left;" value="Single encoder, single task head, no systematic component ablation study" vertex="1">
           <mxGeometry height="18" width="500" x="125" y="495" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-30" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=10;fillColor=#F5F5F5;strokeColor=#CCCCCC;strokeWidth=1;" value="" vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-30" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=10;fillColor=#F5F5F5;strokeColor=#CCCCCC;strokeWidth=1;glass=1;shadow=1;" value="" vertex="1">
           <mxGeometry height="55" width="490" x="130" y="545" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-31" parent="1" style="text;whiteSpace=wrap;fontSize=10;fontStyle=2;fontFamily=Arial;fontColor=#888888;align=center;" value="Best prior result: Hoque &amp; Seddiqui (2025) — 93.62% acc / 93.61% F1 (binary, 5-class, 44K, single source)" vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-31" parent="1" style="text;whiteSpace=wrap;fontSize=14;fontStyle=2;fontFamily=Arial;fontColor=#888888;align=center;" value="Best prior result: Hoque &amp; Seddiqui (2025) — 93.62% acc / 93.61% F1 (binary, 5-class, 44K, single source)" vertex="1">
           <mxGeometry height="35" width="470" x="140" y="555" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-32" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=8;fillColor=#F0FAF0;strokeColor=#4CAF50;strokeWidth=1.5;dashed=0;" value="" vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-32" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=8;fillColor=#F0FAF0;strokeColor=#4CAF50;strokeWidth=1.5;dashed=0;glass=1;shadow=1;" value="" vertex="1">
           <mxGeometry height="590" width="630" x="730" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-33" parent="1" style="text;whiteSpace=wrap;fontSize=18;fontStyle=1;fontFamily=Arial;fontColor=#4CAF50;align=center;verticalAlign=middle;" value="Our Research — Contributions" vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-33" parent="1" style="text;whiteSpace=wrap;fontSize=18;fontStyle=1;fontFamily=Arial;fontColor=#4CAF50;align=center;verticalAlign=middle;shadow=1;" value="Our Research — Contributions" vertex="1">
           <mxGeometry height="35" width="430" x="830" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-34" parent="1" style="text;whiteSpace=wrap;fontSize=9;fontStyle=2;fontFamily=Arial;fontColor=#999999;align=center;" value="BanglaCyberBench: Multi-Task Transformer Ensemble (2026)" vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-34" parent="1" style="text;whiteSpace=wrap;fontSize=12;fontStyle=2;fontFamily=Arial;fontColor=#999999;align=center;" value="BanglaCyberBench: Multi-Task Transformer Ensemble (2026)" vertex="1">
           <mxGeometry height="20" width="430" x="830" y="112" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-35" parent="1" style="text;whiteSpace=wrap;fontSize=20;fontFamily=Arial;fontColor=#4CAF50;fontStyle=1;align=center;verticalAlign=middle;" value="✓" vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-35" parent="1" style="text;whiteSpace=wrap;fontSize=24;fontFamily=Arial;fontColor=#4CAF50;fontStyle=1;align=center;verticalAlign=middle;" value="✓" vertex="1">
           <mxGeometry height="40" width="40" x="750" y="150" as="geometry" />
         </mxCell>
         <mxCell id="t-FqGZyoNH09Uf5jNLHU-36" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=12;fillColor=#E8F5E9;strokeColor=#4CAF50;strokeWidth=1.5;" value="" vertex="1">
@@ -115,10 +115,10 @@
         <mxCell id="t-FqGZyoNH09Uf5jNLHU-37" parent="1" style="text;whiteSpace=wrap;fontSize=13;fontStyle=1;fontFamily=Arial;fontColor=#2D7D3A;align=left;" value="4 Sources, Multi-Source Benchmark" vertex="1">
           <mxGeometry height="20" width="400" x="815" y="148" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-38" parent="1" style="text;whiteSpace=wrap;fontSize=9;fontFamily=Arial;fontColor=#777777;align=left;" value="banth (Kaggle) + bd_shs (Mendeley) + facebook_44001 + multilabel_12557 — cross-source diversity" vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-38" parent="1" style="text;whiteSpace=wrap;fontSize=11;fontFamily=Arial;fontColor=#777777;align=left;" value="banth (Kaggle) + bd_shs (Mendeley) + facebook_44001 + multilabel_12557 — cross-source diversity" vertex="1">
           <mxGeometry height="18" width="500" x="815" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-39" parent="1" style="text;whiteSpace=wrap;fontSize=20;fontFamily=Arial;fontColor=#4CAF50;fontStyle=1;align=center;verticalAlign=middle;" value="✓" vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-39" parent="1" style="text;whiteSpace=wrap;fontSize=24;fontFamily=Arial;fontColor=#4CAF50;fontStyle=1;align=center;verticalAlign=middle;" value="✓" vertex="1">
           <mxGeometry height="40" width="40" x="750" y="215" as="geometry" />
         </mxCell>
         <mxCell id="t-FqGZyoNH09Uf5jNLHU-40" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=12;fillColor=#E8F5E9;strokeColor=#4CAF50;strokeWidth=1.5;" value="" vertex="1">
@@ -127,10 +127,10 @@
         <mxCell id="t-FqGZyoNH09Uf5jNLHU-41" parent="1" style="text;whiteSpace=wrap;fontSize=13;fontStyle=1;fontFamily=Arial;fontColor=#2D7D3A;align=left;" value="135,575 Samples (3x Larger)" vertex="1">
           <mxGeometry height="20" width="400" x="815" y="213" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-42" parent="1" style="text;whiteSpace=wrap;fontSize=9;fontFamily=Arial;fontColor=#777777;align=left;" value="Largest Bengali cyberbullying benchmark to date. 3x the size of any prior dataset." vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-42" parent="1" style="text;whiteSpace=wrap;fontSize=11;fontFamily=Arial;fontColor=#777777;align=left;" value="Largest Bengali cyberbullying benchmark to date. 3x the size of any prior dataset." vertex="1">
           <mxGeometry height="18" width="500" x="815" y="235" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-43" parent="1" style="text;whiteSpace=wrap;fontSize=20;fontFamily=Arial;fontColor=#4CAF50;fontStyle=1;align=center;verticalAlign=middle;" value="✓" vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-43" parent="1" style="text;whiteSpace=wrap;fontSize=24;fontFamily=Arial;fontColor=#4CAF50;fontStyle=1;align=center;verticalAlign=middle;" value="✓" vertex="1">
           <mxGeometry height="40" width="40" x="750" y="280" as="geometry" />
         </mxCell>
         <mxCell id="t-FqGZyoNH09Uf5jNLHU-44" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=12;fillColor=#E8F5E9;strokeColor=#4CAF50;strokeWidth=1.5;" value="" vertex="1">
@@ -139,10 +139,10 @@
         <mxCell id="t-FqGZyoNH09Uf5jNLHU-45" parent="1" style="text;whiteSpace=wrap;fontSize=13;fontStyle=1;fontFamily=Arial;fontColor=#2D7D3A;align=left;" value="9 Fine-Grained Classes + Priority Resolution" vertex="1">
           <mxGeometry height="20" width="400" x="815" y="278" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-46" parent="1" style="text;whiteSpace=wrap;fontSize=9;fontFamily=Arial;fontColor=#777777;align=left;" value="89 raw labels consolidated to 9 via priority-based compound label resolution (threat &gt; sexual &gt; ...)" vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-46" parent="1" style="text;whiteSpace=wrap;fontSize=11;fontFamily=Arial;fontColor=#777777;align=left;" value="89 raw labels consolidated to 9 via priority-based compound label resolution (threat &gt; sexual &gt; ...)" vertex="1">
           <mxGeometry height="18" width="500" x="815" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-47" parent="1" style="text;whiteSpace=wrap;fontSize=20;fontFamily=Arial;fontColor=#4CAF50;fontStyle=1;align=center;verticalAlign=middle;" value="✓" vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-47" parent="1" style="text;whiteSpace=wrap;fontSize=24;fontFamily=Arial;fontColor=#4CAF50;fontStyle=1;align=center;verticalAlign=middle;" value="✓" vertex="1">
           <mxGeometry height="40" width="40" x="750" y="345" as="geometry" />
         </mxCell>
         <mxCell id="t-FqGZyoNH09Uf5jNLHU-48" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=12;fillColor=#E8F5E9;strokeColor=#4CAF50;strokeWidth=1.5;" value="" vertex="1">
@@ -151,61 +151,61 @@
         <mxCell id="t-FqGZyoNH09Uf5jNLHU-49" parent="1" style="text;whiteSpace=wrap;fontSize=13;fontStyle=1;fontFamily=Arial;fontColor=#2D7D3A;align=left;" value="Dual-Script: Bangla + Romanized" vertex="1">
           <mxGeometry height="20" width="400" x="815" y="343" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-50" parent="1" style="text;whiteSpace=wrap;fontSize=9;fontFamily=Arial;fontColor=#777777;align=left;" value="54.6% romanized + 45.4% Bangla Unicode — reflects real-world social media usage in Bangladesh" vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-50" parent="1" style="text;whiteSpace=wrap;fontSize=11;fontFamily=Arial;fontColor=#777777;align=left;" value="54.6% romanized + 45.4% Bangla Unicode — reflects real-world social media usage in Bangladesh" vertex="1">
           <mxGeometry height="18" width="500" x="815" y="365" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-51" parent="1" style="text;whiteSpace=wrap;fontSize=20;fontFamily=Arial;fontColor=#4CAF50;fontStyle=1;align=center;verticalAlign=middle;" value="✓" vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-51" parent="1" style="text;whiteSpace=wrap;fontSize=24;fontFamily=Arial;fontColor=#4CAF50;fontStyle=1;align=center;verticalAlign=middle;" value="✓" vertex="1">
           <mxGeometry height="40" width="40" x="750" y="410" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-52" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=12;fillColor=#E8F5E9;strokeColor=#4CAF50;strokeWidth=1.5;" value="" vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-52" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=12;fillColor=#E8F5E9;strokeColor=#4CAF50;strokeWidth=1.5;glass=1;shadow=1;" value="" vertex="1">
           <mxGeometry height="50" width="530" x="800" y="405" as="geometry" />
         </mxCell>
         <mxCell id="t-FqGZyoNH09Uf5jNLHU-53" parent="1" style="text;whiteSpace=wrap;fontSize=13;fontStyle=1;fontFamily=Arial;fontColor=#2D7D3A;align=left;" value="6-Split Robustness Evaluation (all F1 ≥ 0.93)" vertex="1">
           <mxGeometry height="20" width="450" x="815" y="408" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-54" parent="1" style="text;whiteSpace=wrap;fontSize=9;fontFamily=Arial;fontColor=#777777;align=left;" value="4 source-holdout + 1 script-holdout + in-domain. First Bengali cyberbullying work to test cross-source." vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-54" parent="1" style="text;whiteSpace=wrap;fontSize=11;fontFamily=Arial;fontColor=#777777;align=left;" value="4 source-holdout + 1 script-holdout + in-domain. First Bengali cyberbullying work to test cross-source." vertex="1">
           <mxGeometry height="18" width="500" x="815" y="430" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-55" parent="1" style="text;whiteSpace=wrap;fontSize=20;fontFamily=Arial;fontColor=#4CAF50;fontStyle=1;align=center;verticalAlign=middle;" value="✓" vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-55" parent="1" style="text;whiteSpace=wrap;fontSize=24;fontFamily=Arial;fontColor=#4CAF50;fontStyle=1;align=center;verticalAlign=middle;" value="✓" vertex="1">
           <mxGeometry height="40" width="40" x="750" y="475" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-56" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=12;fillColor=#E8F5E9;strokeColor=#4CAF50;strokeWidth=1.5;" value="" vertex="1">
-          <mxGeometry height="50" width="530" x="800" y="470" as="geometry" />
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-56" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=12;fillColor=#E8F5E9;strokeColor=#4CAF50;strokeWidth=1.5;glass=1;shadow=1;" value="" vertex="1">
+          <mxGeometry height="60" width="530" x="800" y="470" as="geometry" />
         </mxCell>
         <mxCell id="t-FqGZyoNH09Uf5jNLHU-57" parent="1" style="text;whiteSpace=wrap;fontSize=13;fontStyle=1;fontFamily=Arial;fontColor=#2D7D3A;align=left;" value="3-Model × 3-Seed Ensemble + 5 Ablations" vertex="1">
           <mxGeometry height="20" width="400" x="815" y="473" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-58" parent="1" style="text;whiteSpace=wrap;fontSize=9;fontFamily=Arial;fontColor=#777777;align=left;" value="BanglaBERT + MuRIL + XLM-R, multi-task (binary + 9-class), Nelder-Mead weighted ensemble, 5 ablations" vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-58" parent="1" style="text;whiteSpace=wrap;fontSize=11;fontFamily=Arial;fontColor=#777777;align=left;" value="BanglaBERT + MuRIL + XLM-R, multi-task (binary + 9-class), Nelder-Mead weighted ensemble, 5 ablations" vertex="1">
           <mxGeometry height="18" width="500" x="815" y="495" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-59" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=10;fillColor=#E8F5E9;strokeColor=#4CAF50;strokeWidth=2;" value="" vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-59" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=10;fillColor=#E8F5E9;strokeColor=#4CAF50;strokeWidth=2;shadow=1;glass=1;" value="" vertex="1">
           <mxGeometry height="65" width="490" x="820" y="540" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-60" parent="1" style="text;whiteSpace=wrap;fontSize=11;fontStyle=1;fontFamily=Arial;fontColor=#2D7D3A;align=center;" value="Our results: Binary F1=0.9247 | Abuse-Type F1=0.7746 | AUROC=0.9731" vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-60" parent="1" style="text;whiteSpace=wrap;fontSize=14;fontStyle=1;fontFamily=Arial;fontColor=#2D7D3A;align=center;" value="Our results: Binary F1=0.9247 | Abuse-Type F1=0.7746 | AUROC=0.9731" vertex="1">
           <mxGeometry height="20" width="470" x="830" y="548" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-61" parent="1" style="text;whiteSpace=wrap;fontSize=10;fontStyle=2;fontFamily=Arial;fontColor=#555555;align=center;" value="135K samples | 4 sources | 9 classes | dual-script | all holdouts F1 ≥ 0.93" vertex="1">
-          <mxGeometry height="20" width="470" x="830" y="572" as="geometry" />
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-61" parent="1" style="text;whiteSpace=wrap;fontSize=12;fontStyle=2;fontFamily=Arial;fontColor=#555555;align=center;" value="135K samples | 4 sources | 9 classes | dual-script | all holdouts F1 ≥ 0.93" vertex="1">
+          <mxGeometry height="20" width="470" x="830" y="580" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-62" edge="1" parent="1" source="t-FqGZyoNH09Uf5jNLHU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#BBBBBB;strokeWidth=1.5;dashed=1;dashPattern=6 3;endArrow=blockThin;endFill=1;entryX=0;entryY=0.5;exitX=1;exitY=0.5;" target="t-FqGZyoNH09Uf5jNLHU-36" value="">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-62" edge="1" parent="1" source="t-FqGZyoNH09Uf5jNLHU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#BBBBBB;strokeWidth=1.5;dashed=1;dashPattern=6 3;endArrow=blockThin;endFill=1;entryX=0;entryY=0.5;exitX=1;exitY=0.5;shadow=1;" target="t-FqGZyoNH09Uf5jNLHU-36" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-63" edge="1" parent="1" source="t-FqGZyoNH09Uf5jNLHU-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#BBBBBB;strokeWidth=1.5;dashed=1;dashPattern=6 3;endArrow=blockThin;endFill=1;entryX=0;entryY=0.5;exitX=1;exitY=0.5;" target="t-FqGZyoNH09Uf5jNLHU-40" value="">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-63" edge="1" parent="1" source="t-FqGZyoNH09Uf5jNLHU-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#BBBBBB;strokeWidth=1.5;dashed=1;dashPattern=6 3;endArrow=blockThin;endFill=1;entryX=0;entryY=0.5;exitX=1;exitY=0.5;shadow=1;" target="t-FqGZyoNH09Uf5jNLHU-40" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-64" edge="1" parent="1" source="t-FqGZyoNH09Uf5jNLHU-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#BBBBBB;strokeWidth=1.5;dashed=1;dashPattern=6 3;endArrow=blockThin;endFill=1;entryX=0;entryY=0.5;exitX=1;exitY=0.5;" target="t-FqGZyoNH09Uf5jNLHU-44" value="">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-64" edge="1" parent="1" source="t-FqGZyoNH09Uf5jNLHU-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#BBBBBB;strokeWidth=1.5;dashed=1;dashPattern=6 3;endArrow=blockThin;endFill=1;entryX=0;entryY=0.5;exitX=1;exitY=0.5;shadow=1;" target="t-FqGZyoNH09Uf5jNLHU-44" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-65" edge="1" parent="1" source="t-FqGZyoNH09Uf5jNLHU-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#BBBBBB;strokeWidth=1.5;dashed=1;dashPattern=6 3;endArrow=blockThin;endFill=1;entryX=0;entryY=0.5;exitX=1;exitY=0.5;" target="t-FqGZyoNH09Uf5jNLHU-48" value="">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-65" edge="1" parent="1" source="t-FqGZyoNH09Uf5jNLHU-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#BBBBBB;strokeWidth=1.5;dashed=1;dashPattern=6 3;endArrow=blockThin;endFill=1;entryX=0;entryY=0.5;exitX=1;exitY=0.5;shadow=1;" target="t-FqGZyoNH09Uf5jNLHU-48" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-66" edge="1" parent="1" source="t-FqGZyoNH09Uf5jNLHU-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#BBBBBB;strokeWidth=1.5;dashed=1;dashPattern=6 3;endArrow=blockThin;endFill=1;entryX=0;entryY=0.5;exitX=1;exitY=0.5;" target="t-FqGZyoNH09Uf5jNLHU-52" value="">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-66" edge="1" parent="1" source="t-FqGZyoNH09Uf5jNLHU-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#BBBBBB;strokeWidth=1.5;dashed=1;dashPattern=6 3;endArrow=blockThin;endFill=1;entryX=0;entryY=0.5;exitX=1;exitY=0.5;shadow=1;" target="t-FqGZyoNH09Uf5jNLHU-52" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-67" edge="1" parent="1" source="t-FqGZyoNH09Uf5jNLHU-27" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#BBBBBB;strokeWidth=1.5;dashed=1;dashPattern=6 3;endArrow=blockThin;endFill=1;entryX=0;entryY=0.5;exitX=1;exitY=0.5;" target="t-FqGZyoNH09Uf5jNLHU-56" value="">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-67" edge="1" parent="1" source="t-FqGZyoNH09Uf5jNLHU-27" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#BBBBBB;strokeWidth=1.5;dashed=1;dashPattern=6 3;endArrow=blockThin;endFill=1;entryX=0;entryY=0.5;exitX=1;exitY=0.5;shadow=1;" target="t-FqGZyoNH09Uf5jNLHU-56" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t-FqGZyoNH09Uf5jNLHU-68" parent="1" style="text;whiteSpace=wrap;fontSize=9;fontFamily=Arial;fontColor=#666666;fontStyle=2;align=center;" value="Figure D6. Research gap infographic. Left: limitations of prior Bengali cyberbullying detection work. Right: how our research addresses each gap. Dashed arrows show direct correspondence between each limitation and our contribution." vertex="1">
+        <mxCell id="t-FqGZyoNH09Uf5jNLHU-68" parent="1" style="text;whiteSpace=wrap;fontSize=14;fontFamily=Arial;fontColor=#666666;fontStyle=2;align=center;glass=1;shadow=1;" value="Figure D6. Research gap infographic. Left: limitations of prior Bengali cyberbullying detection work. Right: how our research addresses each gap. Dashed arrows show direct correspondence between each limitation and our contribution." vertex="1">
           <mxGeometry height="35" width="1000" x="200" y="690" as="geometry" />
         </mxCell>
       </root>
