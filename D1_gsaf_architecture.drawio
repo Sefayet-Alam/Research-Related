@@ -13,8 +13,8 @@
         <mxCell id="RA9ue2SIs9SMUAIUuyS_-3" parent="1" style="shape=cube;rounded=1;whiteSpace=wrap;html=1;fillColor=#2a9d8f;fontColor=#ffffff;strokeColor=#1d6e65;fontSize=13;fontStyle=1;gradientColor=default;" value="Stream B features&#xa;(11-dim)" vertex="1">
           <mxGeometry height="90" width="180" x="60" y="330" as="geometry" />
         </mxCell>
-        <mxCell id="RA9ue2SIs9SMUAIUuyS_-4" parent="1" style="shape=cube;rounded=1;whiteSpace=wrap;html=1;fillColor=#e9c46a;fontColor=#333333;strokeColor=#c9a030;fontSize=13;fontStyle=1;" value="Stream C features&#xa;(7-dim)" vertex="1">
-          <mxGeometry height="60" width="180" x="60" y="560" as="geometry" />
+        <mxCell id="RA9ue2SIs9SMUAIUuyS_-4" parent="1" style="shape=cube;rounded=1;whiteSpace=wrap;html=1;fillColor=#e9c46a;fontColor=#333333;strokeColor=#c9a030;fontSize=13;fontStyle=1;gradientColor=#FFFFFF;" value="Stream C features&#xa;(7-dim)" vertex="1">
+          <mxGeometry height="80" width="180" x="60" y="540" as="geometry" />
         </mxCell>
         <mxCell id="RA9ue2SIs9SMUAIUuyS_-5" parent="1" style="shape=cube;rounded=1;whiteSpace=wrap;html=1;fillColor=#264653;fontColor=#ffffff;strokeColor=#1a3340;fontSize=11;gradientColor=default;" value="Linear(12→32)&#xa;LayerNorm + ReLU + Dropout" vertex="1">
           <mxGeometry height="80" width="210" x="310" y="150" as="geometry" />
@@ -31,7 +31,7 @@
         <mxCell id="RA9ue2SIs9SMUAIUuyS_-9" parent="1" style="shape=cube;rounded=1;whiteSpace=wrap;html=1;fillColor=#2a9d8f;fontColor=#ffffff;strokeColor=#1d6e65;fontSize=12;fontStyle=1;gradientColor=default;" value="h_B (32-dim)" vertex="1">
           <mxGeometry height="65" width="130" x="590" y="342.5" as="geometry" />
         </mxCell>
-        <mxCell id="RA9ue2SIs9SMUAIUuyS_-10" parent="1" style="shape=cube;rounded=1;whiteSpace=wrap;html=1;fillColor=#e9c46a;fontColor=light-dark(#f6f4f4, #c1c1c1);strokeColor=#c9a030;fontSize=12;fontStyle=1;gradientColor=#FFFFFF;" value="h_C (32-dim)" vertex="1">
+        <mxCell id="RA9ue2SIs9SMUAIUuyS_-10" parent="1" style="shape=cube;rounded=1;whiteSpace=wrap;html=1;fillColor=#e9c46a;fontColor=light-dark(#f6f4f4, #c1c1c1);strokeColor=#c9a030;fontSize=12;fontStyle=1;gradientColor=#FFFFFF;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;h_C (32-dim)&lt;/font&gt;" vertex="1">
           <mxGeometry height="50" width="130" x="590" y="565" as="geometry" />
         </mxCell>
         <mxCell id="RA9ue2SIs9SMUAIUuyS_-11" parent="1" style="shape=cube;rounded=1;whiteSpace=wrap;html=1;fillColor=#457b9d;fontColor=#ffffff;strokeColor=#2e5570;fontSize=12;fontStyle=1;gradientColor=default;" value="Concatenate&#xa;h_A ‖ h_B ‖ h_C&#xa;→ 96-dim" vertex="1">
@@ -50,10 +50,10 @@
           <mxGeometry height="80" width="210" x="1010" y="610" as="geometry" />
         </mxCell>
         <mxCell id="RA9ue2SIs9SMUAIUuyS_-16" parent="1" style="shape=cube;rounded=1;whiteSpace=wrap;html=1;fillColor=#457b9d;fontColor=#ffffff;strokeColor=#2e5570;fontSize=12;gradientColor=default;" value="sigmoid(logit)" vertex="1">
-          <mxGeometry height="50" width="210" x="1010" y="760" as="geometry" />
+          <mxGeometry height="60" width="210" x="1010" y="760" as="geometry" />
         </mxCell>
         <mxCell id="RA9ue2SIs9SMUAIUuyS_-17" parent="1" style="shape=cube;rounded=1;whiteSpace=wrap;html=1;fillColor=#457b9d;fontColor=#ffffff;strokeColor=#2e5570;fontSize=13;fontStyle=1;gradientColor=default;" value="P(OOC) ∈ [0, 1]&#xa;≥ threshold → OUT-OF-CONTEXT" vertex="1">
-          <mxGeometry height="60" width="250" x="990" y="880" as="geometry" />
+          <mxGeometry height="100" width="250" x="990" y="880" as="geometry" />
         </mxCell>
         <mxCell id="RA9ue2SIs9SMUAIUuyS_-18" parent="1" style="text;html=1;strokeColor=#e76f51;fillColor=#fff3ee;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=11;fontStyle=2;glass=1;" value="Total parameters: 8,164&#xa;(deliberately lightweight — intelligence is in frozen feature extractors)" vertex="1">
           <mxGeometry height="60" width="160" x="790" y="880" as="geometry" />
