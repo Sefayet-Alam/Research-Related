@@ -1,0 +1,136 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="5265L3odqS62E-BGkRIk">
+    <mxGraphModel dx="1328" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="400" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;shadow=1;glass=1;" value="MAGE: Stream Internals" vertex="1">
+          <mxGeometry height="40" width="600" x="310" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#264653;fontColor=#ffffff;strokeColor=#1a3340;fontSize=14;fontStyle=1;gradientColor=default;" value="Stream A — Entity Grounding" vertex="1">
+          <mxGeometry height="50" width="340" x="60" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2a9d8f;fontColor=#ffffff;strokeColor=#1d6e65;fontSize=14;fontStyle=1;gradientColor=default;" value="Stream B — CLIP Similarity" vertex="1">
+          <mxGeometry height="50" width="340" x="490" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e9c46a;fontColor=#333333;strokeColor=#c9a030;fontSize=14;fontStyle=1;gradientColor=#FFF4C3;" value="Stream C — NLI Evidence Stance" vertex="1">
+          <mxGeometry height="50" width="340" x="920" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-5" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#f1faee;strokeColor=#264653;fontSize=12;" value="Input: Image + Caption" vertex="1">
+          <mxGeometry height="50" width="340" x="60" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-6" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#f1faee;strokeColor=#2a9d8f;fontSize=12;" value="Input: Image + Caption" vertex="1">
+          <mxGeometry height="50" width="340" x="490" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-7" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#f1faee;strokeColor=#c9a030;fontSize=12;" value="Input: Caption only&#xa;(image not used in Stream C)" vertex="1">
+          <mxGeometry height="50" width="340" x="920" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#264653;fontColor=#ffffff;strokeColor=#1a3340;fontSize=12;" value="spaCy NER&#xa;Extract named entities from caption:&#xa;PERSON, LOC, ORG, DATE" vertex="1">
+          <mxGeometry height="70" width="340" x="60" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#264653;fontColor=#ffffff;strokeColor=#1a3340;fontSize=12;" value="CLIP ViT-B/32 Visual Grounding&#xa;For each entity: compute&#xa;CLIP-sim(entity text, image region)" vertex="1">
+          <mxGeometry height="70" width="340" x="60" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#264653;fontColor=#ffffff;strokeColor=#1a3340;fontSize=12;" value="Entity Scorer&#xa;Aggregate: counts, grounding scores,&#xa;person/loc/org ratios, max grounding" vertex="1">
+          <mxGeometry height="70" width="340" x="60" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#264653;fontColor=#ffffff;strokeColor=#1a3340;fontSize=12;fontStyle=1;" value="Output: 12 features / pair&#xa;[entity_count, person_count, loc_count, org_count,&#xa;max_grounding, mean_grounding, ...]" vertex="1">
+          <mxGeometry height="70" width="340" x="60" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2a9d8f;fontColor=#ffffff;strokeColor=#1d6e65;fontSize=12;" value="CLIP Embeddings&#xa;image → 512-dim vector&#xa;caption → 512-dim vector&#xa;(from pre-extracted PKL or computed)" vertex="1">
+          <mxGeometry height="80" width="340" x="490" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2a9d8f;fontColor=#ffffff;strokeColor=#1d6e65;fontSize=12;" value="Feature Engineering (11 features)&#xa;cosine_sim, l2_dist, absdiff_mean,&#xa;absdiff_std, img_norm, text_norm,&#xa;elementwise_min_mean, has_real_image_emb, ..." vertex="1">
+          <mxGeometry height="80" width="340" x="490" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2a9d8f;fontColor=#ffffff;strokeColor=#1d6e65;fontSize=12;" value="Stage 1 MLP&#xa;3-layer network on all 11 features&#xa;Train on NC + MMFB" vertex="1">
+          <mxGeometry height="60" width="340" x="490" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2a9d8f;fontColor=#ffffff;strokeColor=#1d6e65;fontSize=12;" value="Stage 2 MLP&#xa;Fine-tune on hard negatives&#xa;(high CLIP-sim but actually OOC)" vertex="1">
+          <mxGeometry height="60" width="340" x="490" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2a9d8f;fontColor=#ffffff;strokeColor=#1d6e65;fontSize=12;fontStyle=1;" value="Output: 11 features / pair" vertex="1">
+          <mxGeometry height="50" width="340" x="490" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e9c46a;fontColor=#333333;strokeColor=#c9a030;fontSize=12;" value="Evidence Retrieval&#xa;Query external news/Wikipedia&#xa;using caption keywords&#xa;⚠ Decircularize: exclude caption text" vertex="1">
+          <mxGeometry height="90" width="340" x="920" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e9c46a;fontColor=#333333;strokeColor=#c9a030;fontSize=12;" value="DeBERTa NLI Scoring&#xa;For each evidence sentence vs caption:&#xa;SUPPORT / CONTRADICT / NEUTRAL" vertex="1">
+          <mxGeometry height="70" width="340" x="920" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e9c46a;fontColor=#333333;strokeColor=#c9a030;fontSize=12;" value="SBERT Stance Aggregation&#xa;Semantic similarity between caption&#xa;and each evidence sentence" vertex="1">
+          <mxGeometry height="70" width="340" x="920" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e9c46a;fontColor=#333333;strokeColor=#c9a030;fontSize=12;" value="Aggregate: 7 features&#xa;support_score, contradiction_score,&#xa;neutral_score, stance_similarity,&#xa;caption_len, evidence_len, len_ratio" vertex="1">
+          <mxGeometry height="80" width="340" x="920" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e9c46a;fontColor=#333333;strokeColor=#c9a030;fontSize=12;fontStyle=1;" value="Output: 7 features / pair" vertex="1">
+          <mxGeometry height="50" width="340" x="920" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-25" edge="1" parent="1" source="9_ZeEeik-vRBN1Po99nE-5" style="edgeStyle=orthogonalEdgeStyle;" target="9_ZeEeik-vRBN1Po99nE-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-26" edge="1" parent="1" source="9_ZeEeik-vRBN1Po99nE-8" style="edgeStyle=orthogonalEdgeStyle;" target="9_ZeEeik-vRBN1Po99nE-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-27" edge="1" parent="1" source="9_ZeEeik-vRBN1Po99nE-9" style="edgeStyle=orthogonalEdgeStyle;" target="9_ZeEeik-vRBN1Po99nE-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-28" edge="1" parent="1" source="9_ZeEeik-vRBN1Po99nE-10" style="edgeStyle=orthogonalEdgeStyle;" target="9_ZeEeik-vRBN1Po99nE-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-29" edge="1" parent="1" source="9_ZeEeik-vRBN1Po99nE-6" style="edgeStyle=orthogonalEdgeStyle;" target="9_ZeEeik-vRBN1Po99nE-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-30" edge="1" parent="1" source="9_ZeEeik-vRBN1Po99nE-13" style="edgeStyle=orthogonalEdgeStyle;" target="9_ZeEeik-vRBN1Po99nE-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-31" edge="1" parent="1" source="9_ZeEeik-vRBN1Po99nE-14" style="edgeStyle=orthogonalEdgeStyle;" target="9_ZeEeik-vRBN1Po99nE-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-32" edge="1" parent="1" source="9_ZeEeik-vRBN1Po99nE-15" style="edgeStyle=orthogonalEdgeStyle;" target="9_ZeEeik-vRBN1Po99nE-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-33" edge="1" parent="1" source="9_ZeEeik-vRBN1Po99nE-16" style="edgeStyle=orthogonalEdgeStyle;" target="9_ZeEeik-vRBN1Po99nE-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-34" edge="1" parent="1" source="9_ZeEeik-vRBN1Po99nE-7" style="edgeStyle=orthogonalEdgeStyle;" target="9_ZeEeik-vRBN1Po99nE-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-35" edge="1" parent="1" source="9_ZeEeik-vRBN1Po99nE-19" style="edgeStyle=orthogonalEdgeStyle;" target="9_ZeEeik-vRBN1Po99nE-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-36" edge="1" parent="1" source="9_ZeEeik-vRBN1Po99nE-20" style="edgeStyle=orthogonalEdgeStyle;" target="9_ZeEeik-vRBN1Po99nE-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-37" edge="1" parent="1" source="9_ZeEeik-vRBN1Po99nE-21" style="edgeStyle=orthogonalEdgeStyle;" target="9_ZeEeik-vRBN1Po99nE-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-38" edge="1" parent="1" source="9_ZeEeik-vRBN1Po99nE-22" style="edgeStyle=orthogonalEdgeStyle;" target="9_ZeEeik-vRBN1Po99nE-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e76f51;fontColor=#ffffff;strokeColor=#b54e34;fontSize=13;fontStyle=1;" value="→ All 30 features feed into GSAF fusion (D1_gsaf_architecture.drawio)" vertex="1">
+          <mxGeometry height="50" width="650" x="330" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-40" edge="1" parent="1" source="9_ZeEeik-vRBN1Po99nE-11" style="edgeStyle=orthogonalEdgeStyle;" target="9_ZeEeik-vRBN1Po99nE-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-41" edge="1" parent="1" source="9_ZeEeik-vRBN1Po99nE-17" style="edgeStyle=orthogonalEdgeStyle;" target="9_ZeEeik-vRBN1Po99nE-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-42" edge="1" parent="1" source="9_ZeEeik-vRBN1Po99nE-23" style="edgeStyle=orthogonalEdgeStyle;" target="9_ZeEeik-vRBN1Po99nE-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-18" parent="1" style="text;html=1;strokeColor=#2a9d8f;fillColor=#e8f4f8;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=11;fontStyle=2;" value="Standalone AUROC: 73.91% NC, 63.35% MMFB&#xa;Strongest individual stream in-distribution&#xa;Weakness: similarity ≠ factual accuracy OOD" vertex="1">
+          <mxGeometry height="60" width="340" x="490" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-24" parent="1" style="text;html=1;strokeColor=#c9a030;fillColor=#fef9e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=11;fontStyle=2;" value="Standalone AUROC: ~52% NC, 70.22% MMFB&#xa;Weak in-distribution (news rarely self-contradicts)&#xa;Strong OOD signal where evidence exists" vertex="1">
+          <mxGeometry height="60" width="340" x="920" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="9_ZeEeik-vRBN1Po99nE-12" parent="1" style="text;html=1;strokeColor=#264653;fillColor=#e8f4f8;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=11;fontStyle=2;" value="Standalone AUROC: ~66% NC&#xa;Acc 62.56% MMFB (below majority baseline)&#xa;Useful in fusion when entities present" vertex="1">
+          <mxGeometry height="60" width="340" x="60" y="680" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
