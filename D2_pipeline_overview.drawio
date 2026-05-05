@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="d1ZMyhAntVCUXErq8Yf_">
-    <mxGraphModel dx="996" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="400" math="0" shadow="0">
+    <mxGraphModel dx="1328" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UEv89tl7VG0cgvNMtjNN-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;shadow=1;" value="MAGE: End-to-End Pipeline" vertex="1">
-          <mxGeometry height="40" width="600" x="500" y="20" as="geometry" />
+          <mxGeometry height="40" width="600" x="180" y="20" as="geometry" />
         </mxCell>
         <mxCell id="UEv89tl7VG0cgvNMtjNN-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontStyle=1;" value="NewsCLIPpings&#xa;85,360 pairs&#xa;(mainstream news)" vertex="1">
           <mxGeometry height="80" width="200" x="100" y="90" as="geometry" />
@@ -146,7 +146,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UEv89tl7VG0cgvNMtjNN-48" parent="1" style="text;html=1;strokeColor=#457b9d;fillColor=#f1faee;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=11;fontStyle=2;" value="finalized_outputs/&#xa;15 tables · 28 figures · 4 LaTeX files" vertex="1">
-          <mxGeometry height="70" width="230" x="910" y="1200" as="geometry" />
+          <mxGeometry height="70" width="230" x="345" y="1370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
